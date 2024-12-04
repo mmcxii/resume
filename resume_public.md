@@ -21,7 +21,9 @@ _For contact information, please send a request to contact@secord.io._
 Bellevue, Washington, United States
 
 **Senior Software Engineer (February 2024 — Present)**
+
 _Software Engineer (March 2022 — February 2024)_
+
 _Associate Software Engineer (June 2021 — March 2022)_
 
 - Designed, architected, engineered, and maintained business critical financial applications using **C#**, **TypeScript**, **React**, **Express.js**, **Jest**, **React Testing Library**, **Cypress**, Tesla’s proprietary Design System, **Docker** and other supporting libraries. Most notably the Payment Estimator used in all Tesla stores across the United States and Canada.
