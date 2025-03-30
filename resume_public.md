@@ -1,10 +1,10 @@
-# Nich Secord
+# Nich Second
 
 Woodinville, Washington, United States
 
 ## Contact
 
-_For contact information, please send a request to contact@secord.io._
+_For contact information, please send a request to contact@second.io._
 
 ## Summary
 
@@ -16,15 +16,19 @@ _For contact information, please send a request to contact@secord.io._
 
 ## Experience
 
-### Tesla (June 2021 — Present)
+### Tesla <small>(June 2021 — Present)</small>
+
+#### Location
 
 Bellevue, Washington, United States
 
-**Senior Software Engineer (February 2024 — Present)**
+#### Roles
 
-_Software Engineer (March 2022 — February 2024)_
+- **Senior Software Engineer (February 2024 — Present)**
+- Software Engineer (March 2022 — February 2024)
+- Associate Software Engineer (June 2021 — March 2022)
 
-_Associate Software Engineer (June 2021 — March 2022)_
+#### Key Achievements
 
 - Designed, architected, engineered, and maintained business critical financial applications using **C#**, **TypeScript**, **React**, **Express.js**, **Jest**, **React Testing Library**, **Cypress**, Tesla’s proprietary Design System, **Docker** and other supporting libraries. Most notably the Payment Estimator used in all Tesla stores across the United States and Canada.
 - Owned and contributed to internal utility libraries depended upon by numerous teams.
@@ -33,9 +37,13 @@ _Associate Software Engineer (June 2021 — March 2022)_
 
 ### Barn Pros (March 2020 – June 2021)
 
+#### Location
+
 Monroe, Washington, United States
 
-_Lead Web Developer_
+- Lead Web Developer
+
+#### Key Achievements
 
 - Single-handedly architected entire software ecosystem and design system from scratch, responsible for all decisions regarding technology stack and architecture.
 - Engineered bespoke and intuitive frontend applications using **TypeScript**, **React**, and Ionic supported by **Jest**, **React Testing Library**, and Storybook.
@@ -44,9 +52,15 @@ _Lead Web Developer_
 
 ### BrandGen.io (June 2020 – September 2020)
 
+#### Location
+
 Burlington, Vermont, United States
 
-_Web Developer (Remote)_
+#### Roles
+
+- Web Developer (Remote)
+
+#### Key Achievements
 
 - Developed high quality complex UI components using **TypeScript**, **React**, **Redux**, **Material UI**, and **Styled-Components**.
 - Worked closely with designer to implement pixel-perfect designs.
