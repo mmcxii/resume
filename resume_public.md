@@ -16,7 +16,7 @@ _For contact information, please send a request to contact@secord.io._
 
 ## Experience
 
-### Tesla <small>(June 2021 — Present)</small>
+### Tesla (June 2021 — Present)
 
 #### Location
 
