@@ -1,18 +1,18 @@
-# Nich Second
+# Nich Secord
 
 Woodinville, Washington, United States
 
 ## Contact
 
-_For contact information, please send a request to contact@second.io._
+_For contact information, please send a request to contact@secord.io._
 
 ## Summary
 
-- Over five years of experience building modern web applications and complex user interfaces using **C#**, **TypeScript**, **React**, and **Node.js** with **REST** and **GraphQL** APIs.
-- Leader and skilled educator; trained and mentored engineers with varying levels of experience to create high quality products and effectively operate in large teams.
-- Strong fundamentals with core web technologies: **HTML**, **CSS**, and **JavaScript**.
-- Advocate of **test-driven development**; leveraging unit, integration, and end-to-end tests to achieve high confidence and coverage.
-- Strong technical writing skills; able to produce clear, concise, and descriptive proposals, reports, memos, and technical documentation.
+- Versatile frontend-focused engineer with over five years of professional experience building modern web applications using **C#**, **TypeScript**, **React**, and **Node.js**, leveraging both **REST** and **GraphQL** technologies.
+- Generalist technologist committed to developing software solutions that address complex systemic challenges, with a particular interest in technologies that enable broader human and economic cooperation.
+- Leader and skilled mentor who empowers junior developers to confidently contribute and challenge existing technical paradigms.
+- Adaptive learner actively integrating emerging technologies, with a focus on expanding technological toolkit through continuous skill acquisition and AI-assisted workflow optimizations.
+- Strong technical communication skills that translate complex technical concepts into clear, actionable documentation.
 
 ## Experience
 
@@ -30,7 +30,7 @@ Bellevue, Washington, United States
 
 #### Key Achievements
 
-- Designed, architected, engineered, and maintained business critical financial applications using **C#**, **TypeScript**, **React**, **Express.js**, **Jest**, **React Testing Library**, **Cypress**, Tesla’s proprietary Design System, **Docker** and other supporting libraries. Most notably the Payment Estimator used in all Tesla stores across the United States and Canada.
+- Designed, architected, engineered, and maintained business critical financial applications using **C#**, **TypeScript**, **React**, **Express.js**, **React Query**, **Jest**, **React Testing Library**, **Cypress**, Tesla’s proprietary Design System, **Docker** and other supporting libraries. Most notably the Payment Estimator used in all Tesla stores across the United States and Canada.
 - Owned and contributed to internal utility libraries depended upon by numerous teams.
 - Collaborated with engineers, designers, and managers across multiple teams to advance organization-wide practices to increase productivity and product scalability.
 - Sought input from end users of applications to help guide product development.
@@ -74,4 +74,4 @@ Burlington, Vermont, United States
 
 ---
 
-_Last updated 2024-11-11_
+_Last updated 2025-03-30_
