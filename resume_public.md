@@ -30,10 +30,10 @@ Bellevue, Washington, United States
 
 #### Key Achievements
 
-- Designed, architected, engineered, and maintained business critical financial applications using **C#**, **TypeScript**, **React**, **Express.js**, **React Query**, **Jest**, **React Testing Library**, **Cypress**, Tesla’s proprietary Design System, **Docker** and other supporting libraries. Most notably the Payment Estimator used in all Tesla stores across the United States and Canada.
-- Owned and contributed to internal utility libraries depended upon by numerous teams.
-- Collaborated with engineers, designers, and managers across multiple teams to advance organization-wide practices to increase productivity and product scalability.
-- Sought input from end users of applications to help guide product development.
+- Designed and engineered an efficient and performant replacement to Tesla's legacy Payment Estimator used in all sales centers across North America enabling customers to explore and compare financing options with clarity and confidence.
+- Developed bedrock financial platform tools using **React**, **TypeScript**, **Node.js**, Tesla's proprietary Design System, and **C#** with **.NET** to efficiently maintain configurations of critical parameters used across the entire global business for pricing, financial partner integration, captive financing, and customer order management.
+- Contributed to a critical shift in frontend architecture by moving business logic to backend services, reducing frontend complexity, and improving system robustness while increasing overall engineering scalability across multiple teams.
+- Proactively conducted user research by visiting Tesla sales centers to gather direct feedback on the Payment Estimator, improving the tool's usability and design based on frontline employee insights.
 
 ### Barn Pros (March 2020 – June 2021)
 
