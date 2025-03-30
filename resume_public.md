@@ -4,7 +4,13 @@ Woodinville, Washington, United States
 
 ## Contact
 
-_For contact information, please send a request to contact@secord.io._
+Email: contact@secord.io
+
+Phone: _Available upon request_
+
+LinkedIn: https://linkedin.com/in/nichsecord
+
+Github: https://github.com/mmcxii
 
 ## Summary
 
