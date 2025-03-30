@@ -8,11 +8,11 @@ _For contact information, please send a request to contact@secord.io._
 
 ## Summary
 
-- Versatile frontend-focused engineer with over five years of professional experience building modern web applications using **C#**, **TypeScript**, **React**, and **Node.js**, leveraging both **REST** and **GraphQL** technologies.
-- Generalist technologist committed to developing software solutions that address complex systemic challenges, with a particular interest in technologies that enable broader human and economic cooperation.
-- Leader and skilled mentor who empowers junior developers to confidently contribute and challenge existing technical paradigms.
-- Adaptive learner actively integrating emerging technologies, with a focus on expanding technological toolkit through continuous skill acquisition and AI-assisted workflow optimizations.
-- Strong technical communication skills that translate complex technical concepts into clear, actionable documentation.
+- Frontend-focused engineer with over five years of experience building modern web applications using **TypeScript**, **React**, and **Node.js**, with openness to expanding skills into backend development.
+- Generalist technologist committed to creating software that enables broader human and economic cooperation, with a particular interest in technologies that facilitate systemic problem-solving.
+- Mentor who empowers junior developers to confidently contribute and challenge existing technical paradigms, fostering a culture of collaborative innovation.
+- Adaptive learner continuously expanding technological capabilities, integrating emerging tools and AI-assisted workflows to improve engineering effectiveness.
+- Technical communicator skilled at translating complex technical concepts into clear, actionable insights that drive organizational understanding.
 
 ## Experience
 
@@ -64,9 +64,9 @@ Burlington, Vermont, United States
 
 #### Key Achievements
 
-- Developed high quality complex UI components using **TypeScript**, **React**, **Redux**, **Material UI**, and **Styled-Components**.
-- Worked closely with designer to implement pixel-perfect designs.
-- Participated in weekly meetings with stakeholders to determine product direction.
+- Contributed to the development of a SaaS platform campaign builder interface using **TypeScript**, **React**, and **Redux**, creating intuitive UI components for digital advertising campaign management.
+- Collaborated directly with design team to translate complex UI/UX specifications into precise, pixel-perfect components using **Material UI** and **Styled-Components**.
+- Provided regular development progress updates in weekly stakeholder meetings, supporting the team's communication and product development efforts.
 
 ## Education
 
