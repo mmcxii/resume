@@ -83,3 +83,5 @@ Burlington, Vermont, United States
 ---
 
 _Last updated 2025-03-30_
+
+For the most up to date version of this resume, view it on [Github](https://github.com/mmcxii/resume/blob/master/resume_public.md).
