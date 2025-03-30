@@ -41,14 +41,16 @@ Bellevue, Washington, United States
 
 Monroe, Washington, United States
 
+#### Roles
+
 - Lead Web Developer
 
 #### Key Achievements
 
-- Single-handedly architected entire software ecosystem and design system from scratch, responsible for all decisions regarding technology stack and architecture.
-- Engineered bespoke and intuitive frontend applications using **TypeScript**, **React**, and Ionic supported by **Jest**, **React Testing Library**, and Storybook.
-- Engineered microservice backends using **TypeScript**, **Node.js**, **Nest.js**, **Mikro-ORM**, **GraphQL**, **Redis**, and **Postgres**.
-- Deployed applications with **Docker** and **Kubernetes** on **Digital Ocean**.
+- Sole developer for a custom software ecosystem that transformed Barn Pros' internal operations, creating bespoke applications for employee time tracking and construction invoicing with Smartsheet integration to improve operational efficiency and reduce administrative overhead.
+- Developed intuitive frontend interfaces using **TypeScript**, **React**, and **Ionic** with comprehensive testing via **Jest** and **React Testing Library**, creating a robust and maintainable application architecture.
+- Designed and implemented independent microservices using **TypeScript**, **Node.js**, and **Nest.js**, exploring modular system architecture to enable flexible and scalable backend development for business-critical applications.
+- Implemented containerization using **Docker** and explored **Kubernetes** deployment strategies to enable scalable and flexible application infrastructure for business-critical services.
 
 ### BrandGen.io (June 2020 – September 2020)
 
