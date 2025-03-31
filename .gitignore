@@ -1,5 +1,8 @@
-# The private copy of my resume contains contact information
+# The private copy of my resume contains full contact information
 # and is not shared publicly.
 resume_private.*
+# Generated PDFs of my resume do not need to be shared publicly.
+resume_public*.pdf
 # Cover letters not shared publicly.
 cover_letter*.*
+
