@@ -14,11 +14,11 @@ Github: https://github.com/mmcxii
 
 ## Summary
 
-- Frontend-focused engineer with over five years of experience building modern web applications using **TypeScript**, **React**, and **Node.js**, with openness to expanding skills into backend development.
+- Frontend-focused engineer with over five years of experience building modern web applications using **TypeScript**, **React**, **Tailwind**, and **Node.js**.
 - Generalist technologist committed to creating software that enables broader human and economic cooperation, with a particular interest in technologies that facilitate systemic problem-solving.
 - Mentor who empowers junior developers to confidently contribute and challenge existing technical paradigms, fostering a culture of collaborative innovation.
 - Adaptive learner continuously expanding technological capabilities, integrating emerging tools and AI-assisted workflows to improve engineering effectiveness.
-- Technical communicator skilled at translating complex technical concepts into clear, actionable insights that drive organizational understanding.
+- Technical communicator skilled at translating complex concepts into clear, actionable insights that drive organizational understanding.
 
 ## Experience
 
@@ -82,6 +82,5 @@ Burlington, Vermont, United States
 
 ---
 
-_Last updated 2025-03-30_
-
+_Last updated 2025-04-29_
 For the most up to date version of this resume in its original markdown form, view it on [Github](https://github.com/mmcxii/resume/blob/master/resume_public.md).
